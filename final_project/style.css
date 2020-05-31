@@ -1,0 +1,48 @@
+body {
+    background-color: #fdfd96;
+
+}
+
+h1 {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h2 {
+    font-family: 'Jost', sans-serif;
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+}
+
+button {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 15px;
+    font-size: 20px;
+    padding: 10px 15px;
+    margin-right: 25px;
+}
+
+div {
+    background-color: white;
+    padding: 20px 120px 100px;
+    width: 600px;
+    margin: auto;
+    border: 2px solid grey;
+    border-radius: 15px;
+}
+
+#quote {
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+#img{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
